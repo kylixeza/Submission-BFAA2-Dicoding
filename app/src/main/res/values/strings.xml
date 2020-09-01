@@ -1,0 +1,23 @@
+<resources>
+    <!--Non Translatable -->
+    <string name="app_name" translatable="false">Github User</string>
+    <string name="public_repos" translatable="false">Repositories</string>
+
+    <!--Translatable-->
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="search_hint">Input Github Username First..</string>
+    <string name="not_found">User Not Found</string>
+    <string name="not_have">%1$s Not Have %2$s</string>
+    <string name="language_settings">Language Settings</string>
+
+    <!--Example String -->
+    <string name="exp_login" translatable="false" >Login</string>
+    <string name="exp_name" translatable="false">Name</string>
+    <string name="exp_location" translatable="false">Location</string>
+    <string name="exp_type" translatable="false">Type</string>
+    <string name="exp_publicRepos" translatable="false">0</string>
+    <string name="exp_followers" translatable="false">1</string>
+    <string name="exp_following" translatable="false">2</string>
+
+</resources>
