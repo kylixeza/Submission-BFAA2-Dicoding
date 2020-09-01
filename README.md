@@ -1,6 +1,11 @@
-<<<<<<< HEAD
-# SubmissionBFAA2-GithubUserApp
-=======
 # Submission-BFAA2-Dicoding
 Submission BFAA(Belajar Fundamental Aplikasi Android) ke 2 Dicoding
->>>>>>> b615b6c3c3d2a734ecb4af8f8438ec536d36c173
+
+<ul>
+  <li>Android Studio Minimum Version: 4.0.0</li>
+</ul>
+<p>Another BFAA's Submission</p>
+<ol>
+  <li><a href="https://github.com/KylixEza/Submission-BFAA1-Dicoding">Submission BFAA 1</a></li>
+  <li><a href="https://github.com/KylixEza/Submission-BFAA3-Dicoding">Submission BFAA 3</a></li>
+</ol>
