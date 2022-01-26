@@ -2,7 +2,7 @@
 Submission BFAA(Belajar Fundamental Aplikasi Android) ke 2 Dicoding
 
 <ul>
-  <li>Android Studio Minimum Version: 4.0.0</li>
+  <li>Android Studio Minimum Version: Arctic Fox 2020.3.1</li>
 </ul>
 <p>Another BFAA's Submission</p>
 <ol>
